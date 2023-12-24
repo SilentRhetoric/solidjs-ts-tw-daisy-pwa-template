@@ -35,26 +35,38 @@ You can deploy the `dist` folder to any static host provider (netlify, surge, no
 
 ## Technologies and Resources
 
-## SolidJS
+### SolidJS
 
 Learn more on the [Solid Website](https://solidjs.com) and come chat with us on our [Discord](https://discord.com/invite/solidjs)
 
 ### Vite
 
-[https://vitejs.dev/guide/](https://vitejs.dev/guide/)
+[https://vitejs.dev/](https://vitejs.dev/)
 
 ### TypeScript
 
-[https://www.typescriptlang.org/docs/](https://www.typescriptlang.org/docs/)
+[https://www.typescriptlang.org/docs/](https://www.typescriptlang.org/)
 
 ### TailwindCSS
 
-[https://tailwindcss.com/docs/installation](https://tailwindcss.com/docs/installation)
+[https://tailwindcss.com/docs/installation](https://tailwindcss.com/)
 
 ### DaisyUI
 
-[https://daisyui.com/components/](https://daisyui.com/components/)
+[https://daisyui.com/components/](https://daisyui.com/)
+
+### ESLint
+
+[https://eslint.org/](https://eslint.org/)
+
+### Prettier
+
+[https://prettier.io/](https://prettier.io/)
 
 ### Favicon
 
 [https://realfavicongenerator.net](https://realfavicongenerator.net/)
+
+### Progressive Web App (PWA)
+
+[https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
