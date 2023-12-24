@@ -1,6 +1,6 @@
 {
   "name": "vite-template-solid-ts-tw-daisyui-pwa",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "SolidJS template with TypeScript, TailwindCSS, DaisyUI, and PWA support.",
   "scripts": {
     "start": "vite",
