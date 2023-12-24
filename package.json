@@ -1,0 +1,29 @@
+{
+  "name": "vite-template-solid-ts-tw-daisyui-pwa",
+  "version": "0.0.0",
+  "description": "SolidJS template with TypeScript, TailwindCSS, DaisyUI, and PWA support.",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.10",
+    "@types/node": "^20.10.5",
+    "autoprefixer": "^10.4.16",
+    "daisyui": "^4.4.23",
+    "postcss": "^8.4.32",
+    "prettier": "^3.1.1",
+    "prettier-plugin-tailwindcss": "^0.5.9",
+    "solid-devtools": "^0.27.9",
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5.3.3",
+    "vite": "^4.5.1",
+    "vite-plugin-solid": "^2.8.0"
+  },
+  "dependencies": {
+    "solid-js": "^1.8.7"
+  }
+}
