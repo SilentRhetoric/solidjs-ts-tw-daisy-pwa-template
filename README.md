@@ -1,14 +1,18 @@
 # SolidJS Template with Vite, TypeScript, TailwindCSS, DaisyUI, and PWA Support
 
-## Usage
+## Quick Start
 
-Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
-
-This is the reason you see a `pnpm-lock.yaml`. That being said, any package manager will work. This file can be safely be removed once you clone a template.
+This template is meant to be used via the [degit](https://github.com/Rich-Harris/degit) utility to create a new project by copying the template.
 
 ```bash
-npm install # or pnpm install or yarn install
+$ npx degit SilentRhetoric/solidjs-ts-tw-daisy-pwa-template my-solid-project
+$ cd my-solid-project
+$ pnpm install # or npm install or yarn install
 ```
+
+Template dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
+
+This is the reason you see a `pnpm-lock.yaml`. That being said, any package manager will work. This file can be safely be removed once you clone a template.
 
 ## Available Scripts
 
